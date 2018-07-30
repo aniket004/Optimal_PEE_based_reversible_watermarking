@@ -3,6 +3,13 @@ READ ME file
 
 %%%% BCDM problem solution using CVX Library
 
+1. Details can be found in paper: 
+Aniket Roy, Rajat Subhra Chakraborty: "Optimal Distortion Estimation for Prediction Error Expansion Based Reversible Watermarking." IWDW 2016: 265-279.
+
+2. run my_code_1.m for each image.
+
+3. Need to setup CVX library as follows.
+ 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %steps for cvx setup
 % 1. cd C:\personal\cvx-w64\cvx  %%% setup the path in which CVX exists
